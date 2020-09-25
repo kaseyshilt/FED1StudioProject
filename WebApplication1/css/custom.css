@@ -1,0 +1,62 @@
+﻿header{
+    background-color:paleturquoise;
+    font-size:18px;
+}
+
+main{
+    background-color:thistle;
+}
+
+h1{
+    color:darkblue;
+    font-size:28px;
+    font:italic;
+}
+
+h2{
+    text-decoration:underline;
+    font-size:22px;
+    font-weight:bold;
+    color: slateblue;
+}
+
+aside h2{
+    background-color:burlywood;
+    color:lightblue;
+    text-decoration:none;
+}
+
+header h1{
+    color:magenta;
+    font-style:italic;
+}
+
+footer{
+    font-style:italic;
+    background-color:palegoldenrod;
+    text-align:center;
+       
+}
+
+.team-members{
+    color:red;
+}
+
+li{
+    color:orangered;
+}
+
+article{
+    background-color:lawngreen;
+    font-weight:bold;
+    border:2px solid black;
+}
+
+.chris{
+    color:forestgreen;
+    font-style:italic;
+}
+
+.cars{
+    color:darkmagenta; 
+}
