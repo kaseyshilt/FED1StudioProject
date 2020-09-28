@@ -70,6 +70,14 @@
     <Content Include="Classes.html" />
     <Content Include="Contact.html" />
     <Content Include="css\custom.css" />
+    <Content Include="images\border_wave.png" />
+    <Content Include="images\surfer4.png" />
+    <Content Include="images\surferdude.gif" />
+    <Content Include="images\surferdude2.jfif" />
+    <Content Include="images\surferdude3.jpg" />
+    <Content Include="images\surferdude5.jfif" />
+    <Content Include="images\surferdude5.jpg" />
+    <Content Include="images\wavebackground.jfif" />
     <Content Include="index.html" />
     <Content Include="Team.html" />
     <Content Include="Web.config" />
@@ -87,7 +95,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="images\" />
     <Folder Include="scripts\" />
     <Folder Include="styles\" />
   </ItemGroup>
